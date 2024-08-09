@@ -9,4 +9,6 @@
 \* Input folder must contain valid raw binary files contaning textmap entries, you can dump those via [YarikStudio](https://github.com/yarik0chka/YarikStudio)\
 \* Output filename will be something like `TextMap_EN.json`
 
+### TextMap_EN hashes will be in `AssetBundles\blocks\04`, with Container path `Data/_ExcelBinOutput/TextMap/EN/Hash/***`
+
 # I DO NOT CLAIM ANY RESPONSIBILITY FOR ANY USAGE OF THIS SOFTWARE, THE SOFTWARE IS MAKE 100% FOR EDUCATIONAL PURPOSES ONLY
